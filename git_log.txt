@@ -1,0 +1,52 @@
+commit de6e0d7497bd1501bfb292ba85437e48d4e207f3
+Author: jasonreese9 <pythoncoderiii@gmail.com>
+Date:   Fri Sep 4 14:20:04 2026 -0700
+
+    Added a text file containing a link to the repository and a text file containing a log of the repository.
+
+commit d2a6e4decc49336d850630a5e6b92df15734e8c8
+Merge: 7217d50 ed5d7d7
+Author: jasonreese9 <pythoncoderiii@gmail.com>
+Date:   Fri Sep 4 14:14:50 2026 -0700
+
+    Fixed merge conflict between branches main and index-fix for index.html
+
+commit ed5d7d7642d20dafc45602df7a87479c0bd923ad
+Author: jasonreese9 <pythoncoderiii@gmail.com>
+Date:   Fri Sep 4 14:10:18 2026 -0700
+
+    Updated index.html to include my favorite movie.
+
+commit 7217d501106a13547eebb12f8875251edc69499a
+Author: jasonreese9 <pythoncoderiii@gmail.com>
+Date:   Fri Sep 4 14:08:18 2026 -0700
+
+    Updated index.html to include my favorite food.
+
+commit d136d7a2c8608e19f9410cfb3a2d69a76bf713c2
+Author: jasonreese9 <pythoncoderiii@gmail.com>
+Date:   Fri Sep 4 14:01:19 2026 -0700
+
+    Added README.md file with description of the repository.
+
+commit c871b1f0c928dfcfece128afa309484d13db7627
+Merge: 1d2bfc0 1a80b5d
+Author: jasonreese9 <pythoncoderiii@gmail.com>
+Date:   Fri Sep 4 13:39:34 2026 -0700
+
+    Merge pull request #1 from jasonreese9/info-fill
+    
+    Filled in the blanks for Index.html
+
+commit 1a80b5de06c5c1d55e85ef94e77256c910614b47
+Author: jasonreese9 <pythoncoderiii@gmail.com>
+Date:   Fri Sep 4 13:36:45 2026 -0700
+
+    Added index.html
+    Filled in blanks
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
